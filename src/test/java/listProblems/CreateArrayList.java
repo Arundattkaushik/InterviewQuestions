@@ -10,7 +10,6 @@ public class CreateArrayList {
 		CreateArrayList cal = new CreateArrayList();
 		List colors = createList();
 		cal.iterateList(colors);
-		System.out.println("I have added this comment");
 
 	}
 	
